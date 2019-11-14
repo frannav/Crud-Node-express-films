@@ -1,0 +1,42 @@
+[
+    {
+    "title": "Vengadores Endgame",
+    "director": "Anthony and Joe Russo",
+    "year": "2019",
+    "rate": "9.6",
+    "id": 1,
+    "like": 0
+    },
+    {
+    "title": "Thor Ragnarock",
+    "director": "Taika Waititi",
+    "year": "2018",
+    "rate": "8.0",
+    "id": 2,
+    "like": 0
+    },
+    {
+    "title": "The Dark Knight",
+    "director": "Cristopher Nolan",
+    "year": "2008",
+    "rate": "9.1",
+    "id": 3,
+    "Like": 0
+    },
+    {
+        "title": "Star Wars",
+        "director": "George Lucas",
+        "year": "1985",
+        "rate": "9.1",
+        "id": 3,
+        "Like": 0
+    },
+    {
+        "title": "Star Wars",
+        "director": "Alguien",
+        "year": "2008",
+        "rate": "9.1",
+        "id": 3,
+        "Like": 0
+    }
+]
